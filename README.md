@@ -50,11 +50,12 @@ The website introduces the counselor’s services, approach, and experience, hel
 ## 💻 Local Setup
 To run the project locally:
 
-``bash
+```bash
 git clone https://github.com/alexmiziuk/psychology.git
 cd psychology
 npm install
 npm run dev
+```
 
 ---
 
@@ -63,9 +64,9 @@ MIT License © Oleksandr Miziuk
 
 ---
 
-## ✉ Contact
-**Email:** oleksandr.miziyk@gmail.com
-**GitHub:** [github.com/alexmiziuk](https://github.com/alexmiziuk)
+## ✉ Контакты
+* **Email:** oleksandr.miziyk@gmail.com
+* **GitHub:** [github.com/alexmiziuk](https://github.com/alexmiziuk)
 
 
 
