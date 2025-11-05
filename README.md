@@ -12,7 +12,10 @@ The website introduces the counselor’s services, approach, and experience, hel
 - SCSS / CSS3  
 - JavaScript (ES6)  
 - jQuery  
-- Slick Carousel  
+- Slick Carousel
+
+**Backend / Mail Handling:**
+- PHPMailer — sending contact form emails
 
 **Build Tools & Optimization:**
 - Webpack 5  
